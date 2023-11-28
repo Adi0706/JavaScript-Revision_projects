@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bulb{
+    border: solid;
+    border-color: black;
+    border-radius:50%;
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    background-color: yellow;
+}
+#switch{
+    margin-left: 100px;
+    padding: 20px;
+    background-color: white;
+    color: black;
+    margin: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#switch:hover{
+    background-color: black;
+    color: white;
+}
